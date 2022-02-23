@@ -1,0 +1,644 @@
+---
+title: "Law, Risks, and Enforcement"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Environmental Risk, Law, and Enforcement
+
+.pull-left[
+<figure>
+  <img src="sticker.png" width="85%">
+</figure>
+
+]
+
+.pull-right[
+
+**EVSS-PUBA 534: Environmental Law and Regulatory Policy**
+
+**Spring 2022**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: title title-2 
+
+# Overview 
+
+.pull-left[
+**Introductions** 
+
+**Characteristics and themes of environmental law** 
+
+**Four analytical frameworks** 
+
+**Enforcement** 
+]
+
+
+
+---
+
+class: title title-2 
+
+# Introductions 
+
+.pull-left[
+**Name** 
+
+**Program** 
+
+**Thesis project or career goals** 
+]
+
+.pull-right[
+<figure>
+  <img src="img/intro.jpeg" width="%">
+</figure>
+]
+
+---
+
+class: title title-2 
+
+
+# Environmental Law 
+
+> **The use of public authority to _protect_ the natural environment and human health from the impacts of pollution and development** 
+
+-Salzman and Thompson (2014), pg. 3 
+
+--
+
+- How do know when the natural environment and/or human health needs to be protected?
+
+- What does "protect" mean? How do we know we have achieved adequate protection?
+
+---
+
+class: title title-2 
+
+# Environmental Law 
+
+> **Environmental law regulates human behavior in light of its environmental impacts** 
+
+-Rowell and van Zeben (2021), pg. 3
+
+--
+
+- How do we know when impacts are sufficient to require changes in human behavior?
+
+- How responsive is human behavior to changes in environmental laws?
+
+---
+
+class: title title-2 
+
+# Characteristics of Environmental Law 
+
+--
+
+> **Environmental law is necessarily almost as complex and dynamic as the ecosystem it seeks to protect**
+
+-Lazarus (2004), pg. 6
+
+**Complexity** 
+
+--
+
+* Workings of the ecosystem 
+
+* Highly industrialized economy
+
+???
+- Workings of the ecosystem
+	- Must account for complex temporal, spatial, geological, chemical, physics, and biological processes
+- Highly industrialized economy
+	- What is the current and future state of emission reduction technologies
+
+---
+
+class: title title-2 
+
+# Characteristics of Environmental Law 
+
+**Scientific uncertainty** 
+
+--
+
+* The workings of the ecosystem and the _causal mechanisms underlying its transformation_ 
+
+--
+* Spatial dimensions
+
+--
+* Temporal dimensions
+
+--
+* Types, levels, and exposure to contaminants
+
+--
+* **Demands of public policy** 
+
+---
+
+class: title title-2 
+
+# Characteristics of Environmental Law 
+
+**Scientific uncertainty** 
+
+> **In many respects scientific uncertainty is _the_ defining feature of environmental policy [law]** 
+
+-Salzman and Thompson (2014), pg. 3 
+
+* Complex interrelations among environmental harms 
+
+
+???
+environmental harms have multiple causes and addressing one may exeterbate another 
+---
+
+class: title title-2 
+
+# Characteristics of Environmental Law 
+
+**Scientific uncertainty** 
+
+**Responses to scientific uncertainty**
+
+* Develop better information 
+
+--
+
+* The _precautionary principle_ 
+  * Caution in the face of significant but uncertain threats
+  * Shifting burden of proof
+
+???
+But, we often face trade-offs in risks not risk vs no risk; how well understood and how serious must a problem be before taking action; geo-engeerining and climate change
+---
+
+class: title title-2 
+
+# Characteristics of Environmental Law 
+
+**Dynamism** 
+
+--
+
+_Much of environmental law is based on "scientifically informed value judgments"_
+
+* New scientific information
+
+--
+* Other changes: Demographic shifts (population changes, age, diets) and technology
+
+--
+* Nature changes and ecosystems evolve
+
+---
+
+class: title title-2 
+
+# Characteristics of Environmental Law 
+
+**Precaution** 
+
+--
+
+* Environmental law is focused on prevention rather than redress 
+
+--
+
+**Controversy** 
+
+--
+- Distributional conflicts over costs and benefits
+
+--
+- Environmental values
+
+---
+
+class: title title-2 
+
+# Themes of Environmental Law 
+
+**Market failures** 
+
+--
+* **Public goods**: clean air, clean water, ecosystem services 
+
+--
+* **Common-pool goods**: the tragedy of the commons 
+
+--
+* **Externalities**: costs shifted to the public (e.g., pollution)
+
+--
+
+**Property rights** 
+
+The rights of ownership or control of property including the right to use, transfer ownership, or exclude from use 
+
+---
+
+class: title title-2 
+
+# Themes of Environmental Law 
+
+**Mismatched scales** 
+
+* Environmental impacts are often _diffuse_, where the consequences are geographically and spatially distant from the causes 
+
+--
+
+* Mismatched political and natural boundaries 
+  * Who should make environmental law, national or local authorities? 
+
+--
+
+* _Race-to-the-bottom_ 
+
+---
+
+class: title title-2 
+
+# Themes of Environmental Law 
+
+**Risk** 
+
+Environmental law is about mitigating risk to the environment and human health
+
+--
+
+Risk can be defined as the _exposure to the **chance** of **injury or loss**_ 
+
+--
+* **Chance**: risk is probabilistic 
+
+--
+* **Injury or loss**
+
+--
+
+**Risk assessment** uses scientific information to estimate harm to the environment and human health from various sources
+
+---
+
+class: title title-2 
+
+# Themes of Environmental Law 
+
+**Four principal steps in the risk assessment process**  
+
+--
+* _Hazard identification_: Is the item under study (e.g., chemical) causally linked to particular health (or public welfare) effects?   
+
+--
+
+* _Dose-response assessment_: What is the relationship between the magnitude of exposure and the probability that the health (or public welfare) effects will occur?  
+
+???
+four steps come from National Research Council: Risk Assessment in the Federal Government: Managing the Process from 1983. Definitions taken from Percival (2013) pg 229
+---
+
+class: title title-2 
+
+# Themes of Environmental Law 
+
+**Four principal steps in the risk assessment process**  
+
+* _Exposure assessment_: What is the level of exposure of humans (or the environment) to the hazard? 
+
+--
+
+* _Risk characterization_: What is the overall magnitude of the risk? 
+  * Combines the first three steps
+
+---
+
+class: title title-2 
+
+# Risk Assessment 
+
+<figure>
+<center>
+  <img src="img/risk-assessment.png" width="75%">
+</figure>
+
+---
+
+class: title title-2 
+
+# Risk Assessment 
+
+**Example: Air pollution from a power plant** 
+
+.pull-left[
+<figure>
+<center>
+  <img src="img/risk-assessment.png" width="">
+</figure>
+]
+
+.pull-right[
+**Exposure processes**: models of pollution movement through air and water
+
+**Effects processes**: measured through _dose-response functions_ 
+]
+
+???
+_dose-response functions_ the relationship between exposure to pollution as a cause and specific outcomes as an effect
+
+---
+
+class: title title-2 
+
+# Risk Assessment 
+
+**Example: Air pollution from a power plant** 
+
+.pull-left[
+<figure>
+<center>
+  <img src="img/risk-assessment.png" width="">
+</figure>
+]
+
+.pull-right[
+**Human perception processes**: the _psychology_ of risk and uncertainty; subject to biases and heuristics 
+
+**Human valuation processes**: willingness-to-pay; value of a statistical life
+
+]
+
+---
+
+class: title title-2 
+
+# Managing Risk
+
+.pull-left[
+<figure>
+<center>
+  <img src="img/risk-assessment.png" width="">
+</figure>
+]
+
+.pull-right[
+* Modify nature and human environment 
+* Modify exposure processes 
+* Modify effects processes
+* Modify how people perceive and value effects 
+* Mitigate or compensate 
+]
+
+---
+
+class: title title-2 
+
+# Managing Risk
+
+**Hazard assessment, exposure assessment, and risk assessment processes at the federal level** (_Shaffer 2021_)
+
+--
+
+_Where is the chemical found_? 
+
+.pull-left[
+* **In the environment**: EPA 
+* **Public health**: NIH/NIEHS/DNTP 
+* **Workplace**: NIOSH/OSHA
+]
+
+.pull-right[
+* **Hazardous waste sites**: ATSDR 
+* **Food or cosmetics**: FDA
+* **Consumer products**: CPSC
+]
+
+---
+
+class: title title-2 
+
+# Environmental Law 
+
+**Four analytical frameworks** 
+
+* Environmental rights 
+* Sustainable development 
+* Utilitarianism and cost-benefit analysis 
+* Environmental justice 
+
+--
+
+_Which of the four analytical frameworks do you view as most useful for examining environmental law and why_?
+
+---
+
+class: title title-2 
+
+# Enforcement 
+
+**How are environmental laws enforced?** 
+
+--
+
+.pull-left[
+**Enforcement should achieve**: 
+* _Force_ of law: compliance 
+* _Rule_ of law: fair application 
+]
+
+--
+
+.pull-right[
+**Types of violators** 
+* _Amoral calculators_ 
+* _Political citizens_ 
+* _Incompetents_ 
+]
+
+--
+
+**Most environmental statutes provide a combination of criminal, civil, and administrative penalties** 
+
+---
+
+class: title title-2 
+
+# Enforcement: The Players 
+
+**Federal, state, and local governments** 
+* Degree of centralization
+* Assist with compliance vs. sanctions 
+* State and local government capture 
+
+--
+
+**Environmental Protection Agency** 
+* Refers cases to the DOJ for litigation 
+* _Overfiling_ if state response is too slow or too lenient 
+
+---
+
+class: title title-2 
+
+# Enforcement: EPA Referrals 
+
+<figure>
+<center>
+  <img src="img/epa-referrals.jpeg" width="75%">
+</center>
+.tiny[source: https://envirodatagov.org/wp-content/uploads/2019/02/C_Seller_EDGI_Testimony__Appendix_2_26_19_EC.pdf]
+</figure>
+
+---
+
+class: title title-2 
+
+# Enforcement: The Process 
+
+**Detection** 
+
+* Trade-off between
+  * How diligently to monitor 
+  * How to punish 
+
+--
+
+**Primary source is _self-reporting_** 
+* Paperwork violations are treated the same as physical violations 
+
+---
+
+class: title title-2 
+
+# Enforcement: The Process 
+
+
+.pull-left[
+**Civil enforcement**
+
+* Administrative hearings 
+  * https://www.epa.gov/alj 
+
+* Civil litigation 
+  * EPA represented by DOJ attorneys
+]
+
+--
+
+.pull-right[
+**Criminal enforcement** 
+
+* _Scienter_: knowledge 
+
+* _Mens rea_: intent 
+
+* https://www.epa.gov/enforcement/criminal-enforcement
+]
+
+---
+
+class: title title-2 
+
+# Enforcement: Citizens Suits 
+
+**Individuals and organizations can bring enforcement actions** 
+
+--
+
+**Can sue:** 
+* Any organization alleged to be in violation of environmental law 
+* The EPA administrator or other government officials for failing to carry-out a non-discretionary duty
+
+--
+
+**Unless...** 
+* It's being "diligently prosecuted" by a federal or state government 
+
+---
+
+class: title title-2 
+
+# Enforcement: Citizens Suits 
+
+**Standing** 
+
+**Must meet four requirements** 
+
+--
+
+* **Injury in fact**: “_an invasion of a legally protected interest which is (a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical_.” Lujan, 504 U.S. at 560 
+
+--
+
+* Injury can be traced to the challenged action 
+
+
+---
+
+class: title title-2 
+
+# Enforcement: Citizens Suits 
+
+**Standing** 
+
+**Must meet four requirements** 
+
+* **Redressability**: courts can provide a remedy or redress 
+
+--
+
+* **Zone of Interests**: Injury falls under the interests or concerns in which the law is intended to protect 
+
+---
+
+class: title title-2 
+
+# For Next Time 
+
+**Actors, Administrative Law, and the Environment** 
+
+.small[
+* _Readings_: 
+	- **Rowell and van Zeben**, Chapter 2: _Key Actors_ and Chapter 3: _Types of Laws_, from Rowell, Arden, and Josephine van Zeben. 2021. _A Guide to U.S. Environmental Law_. Oakland, CA: University of California Press.
+
+	- **Rosenbloom**, Chapter 1: _What is Administrative Law_?, from Rosenbloom, David H. 2015. _Administrative Law for Public Managers_. Boulder, CO: Westview Press.
+
+	- **SKIM**: Tatel, David S. 2010. “The Administrative Process and the Rule of Environmental Law.” _Harvard Environmental Law Review_ 34: 1–8.
+]
+
+
+
+
