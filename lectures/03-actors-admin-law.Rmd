@@ -535,7 +535,7 @@ class: title title-2
 
 **Administrative Procedure Act (APA) of 1946** 
 
-.small[_(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accor- dance with law; (B) contrary to constitutional right, power, privilege, or immunity; (C) in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; (D) without observance of procedure required by law; (E) unsupported by substantial evidence . . . ; (F) unwarranted by the facts._]
+.small[_(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; (B) contrary to constitutional right, power, privilege, or immunity; (C) in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; (D) without observance of procedure required by law; (E) unsupported by substantial evidence . . . ; (F) unwarranted by the facts._]
 
 --
 
