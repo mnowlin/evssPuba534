@@ -1,0 +1,470 @@
+---
+title: "Water Pollution"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+# Water Pollution 
+
+.pull-left[
+<figure>
+  <img src="sticker.png" width="85%">
+</figure>
+
+]
+
+.pull-right[
+
+**EVSS-PUBA 534: Environmental Law and Regulatory Policy**
+
+**Spring 2022**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: title title-2
+
+# Water Pollution 
+
+**Water pollution is the addition of harmful chemicals to natural water. Sources of water pollution in the United States include industrial waste, run-off from fields treated with chemical fertilizers, and run-off from areas that have been mined.** 
+
+---
+
+class: middle 
+
+# Briefly describe point sources, indirect sources, and nonpoint sources of water pollution
+
+---
+
+class: title title-2
+
+# Water Pollution 
+
+<figure>
+<center>
+  <img src="img/water.jpg" width="80%">
+</figure>
+
+---
+
+class: middle 
+
+# Other sources of water pollution?
+
+???
+Other sources of water pollution include air pollution, hydrologic changes (e.g., dams), and natural features (e.g., salt from rocks)
+---
+
+class: title title-2
+
+# Water Pollution 
+
+**Federal Laws Addressing Water Pollution** 
+
+* **The Clean Water Act** (1972) 
+
+* The Ocean Dumping Act (1972)
+
+* The Coastal Zone Management Act (1972)
+
+* **The Safe Drinking Water Act** (1974)
+
+* The Oil Pollution Act (1990)
+
+---
+
+class: title title-2
+
+# The Clean Water Act  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eFz8x_8l-4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+class: title title-2
+
+# The Clean Water Act: History 
+
+<figure>
+<center>
+  <img src="img/cwa-history.png" width="%">
+</figure>
+
+---
+
+class: title title-2
+
+# The Clean Water Act: History 
+
+**1948**: Federal Water Pollution Control Act of 1948
+
+* Provided state and local governments funding and research support to address water pollution issues
+* Water pollution mostly consider a state and local issue.  
+
+--
+
+**1965**: Water Quality Act of 1965: _Required states to_ 
+* Classify waterways according to intended use
+* Set ambient water quality standards 
+* Adopt implementation plans 
+
+---
+
+class: title title-2
+
+# The Clean Water Act: History 
+
+**1972**: Federal Water Pollution Control Act Amendments (_Clean Water Act_) of 1972
+
+* Set optimistic and ambitious goals
+
+--
+* Required all municipal and industrial wastewater to be treated before being discharged into waterways
+
+--
+* Increased federal assistance for municipal treatment plant construction
+
+--
+* Strengthened and streamlined enforcement
+
+--
+* Expanded the federal role while retaining the responsibility of states for day-to-day implementation of the law
+
+???
+vetoed by President Nixon; overridden by Congress
+
+---
+
+class: title title-2
+
+# The Clean Water Act: History 
+
+**1987**:  Water Quality Act of 1987
+
+* Directed states to develop and implement nonpoint pollution management programs
+
+--
+
+*  Encouraged states to pursue groundwater protection activities as part of their overall nonpoint pollution control efforts 
+
+--
+
+* Federal financial assistance was authorized to support demonstration projects and actual control activities
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+
+* Implemented through the [EPA Office of Water](https://www.epa.gov/aboutepa/about-office-water)
+* Text (pdf) of the [Clean Water Act](https://www.epa.gov/sites/default/files/2017-08/documents/federal-water-pollution-control-act-508full.pdf)
+
+--
+
+**Title I**: Research and Related Programs 
+
+**Title II**: Grants for Construction of Treatment Works 
+
+**Title III**: Standards and Enforcement 
+
+**Title IV**: Permits and Licenses 
+
+**Title V**: General Provisions 
+
+**Title VI**: State Water Pollution Control Revolving Funds 
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Three main categories of water quality provisions** 
+
+--
+
+* Regulation of point sources of pollution through effluent limitations and technology standards 
+
+--
+
+* Requirements for states to develop plans for the regulation of nonpoint source pollution 
+
+--
+
+* Requirements for states to set water quality standards for waterways within their borders 
+
+---
+
+class: middle 
+
+# Briefly explain the two goals that were established in the Clean Water Act of 1972
+
+???
+zero discharge of pollutants by 1985 and, as an interim goal and where possible, water quality that is both “fishable” and “swimmable” by mid-1983. While those dates have passed, the goals remain, and efforts to attain the goals continue
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 101:  Congressional Declaration of Goals and Policy**
+
+_The objective of this Act is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. In order to achieve this objective it is hereby declared that, consistent with the provisions of this Act— _
+
+--
+
+_(1) it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;_ 
+
+???
+Required for all sources, not just _new_ sources 
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 101:  Congressional Declaration of Goals and Policy**
+
+_The objective of this Act is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. In order to achieve this objective it is hereby declared that, consistent with the provisions of this Act— _
+
+--
+
+
+_(2) it is the national goal that wherever attainable, an interim goal of water quality which provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;_ 
+
+???
+"fishable and swimmable" 
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 101:  Congressional Declaration of Goals and Policy**
+
+_The objective of this Act is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. In order to achieve this objective it is hereby declared that, consistent with the provisions of this Act— _
+
+--
+
+_(7) it is the national policy that programs for the control of nonpoint sources of pollution be developed and implemented in an expeditious manner so as to enable the goals of this Act to be met through the control of both point and nonpoint sources of pollution._
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 301: Effluent Limitations** 
+
+_... the discharge of any pollutant by any person shall be unlawful._ 
+
+--
+
+**Section 502: General Definitions**
+
+_(12) The term ‘‘discharge of a pollutant’’ and the term ‘‘discharge of pollutants’’ each means (A) any addition of any pollutant to **navigable waters** from any point source, (B) any addition of any pollutant to the waters of the contiguous zone or the ocean from any point source other than a vessel or other floating craft._
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 502: General Definitions** 
+
+_(7) The term ‘‘navigable waters’’ means the waters of the United States, including the territorial seas._
+
+--
+
+**Waters of the US (WOTUS)** 
+
+--
+
+.pull-left[
+**_Rapanos v. United States_ 2006**
+* Four-Justice plurality 
+* Justice Kennedy concurring  
+]
+
+--
+
+.pull-right[
+**WOTUS Rule (2015)** 
+
+Extended protection to streams and wetlands; rescinded by Trump administration 
+]
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 301: Effluent Limitations** 
+
+_... the discharge of any pollutant by any person shall be unlawful._ 
+
+_(1)(A) not later than July 1, 1977, **effluent limitations for point sources**, other than publicly owned treatment works, (i) which shall require the application of the **best practicable control technology**  currently available as defined by the Administrator ..._
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Publicly owned treatment works (POTW)**
+
+**Three categories of technology treatments** 
+
+* **Primary treatment**: separate out solid waste using filters, screens, and settlement tanks 
+
+--
+* **Secondary treatment**: use microorganisms to biologically break down organic matter 
+
+--
+* **Tertiary treatment**: use physical methods such as sand filters, membrane microfiltration, or ultra-violet light to kill bacteria  
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 303: Water Quality Standards and Implementation Plans** 
+
+Requires states and tribes to adopt and to review triennially water quality criteria and standards subject to EPA approval, to identify waters where effluent limits are insufficient to achieve such standards, and to establish total maximum daily loads (TMDLs) of pollutants for such water
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Water Quality Standards Process** 
+
+<figure>
+  <img src="img/cwa-303.png" width="%">
+</figure>
+
+---
+
+class: middle 
+
+# Briefly describe the National Pollutant Discharge Elimination System (NPDES)
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 402: National Pollutant Discharge Elimination System**
+
+_... the Administrator may, after opportunity for public hearing, issue a permit for the discharge of any pollutant, or combination of pollutants, ..._
+
+--
+
+**All point source discharges of pollutants require a permit** 
+* Limits what can be discharged; requires monitoring and reporting 
+* Defines a point source as _any discernible, confined, and discrete conveyance_
+
+???
+The definition of discrete conveyance includes, but is not limited to, _any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, concentrated animal feeding operation, landfill leachate collection system, vessel or other floating craft from which pollutants are or may be discharged_ (40CFR122.2).
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+<figure>
+<center>
+  <img src="img/cwa-npes.png" width="55%">
+</figure>
+
+---
+
+class: middle 
+
+# What about nonpoint source pollution? 
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 319:  Nonpoint Source Management Programs**
+
+As amended by the Water Quality Act of 1987, requires state to identify _those navigable waters within the State which, without additional action to control nonpoint sources of pollution, cannot reasonably be expected to attain or maintain applicable water quality standards or the goals and requirements of this Act_
+
+---
+
+class: title title-2
+
+# The Clean Water Act: Overview 
+
+**Section 319:  Nonpoint Source Management Programs**
+
+States must then _submit to the Administrator for approval a management program which such State proposes to implement ... [a] management program for controlling pollution added from nonpoint sources to the navigable waters within the State and improving the quality of such waters_ 
+
+---
+
+class: title title-2
+
+# For Next Time 
+
+<figure>
+<center>
+  <img src="img/spring-break.jpg" width="80%">
+</figure>
+
+
+---
+
+class: title title-2
+
+# For Next, Next Time 
+
+**Drinking Water**
+
+* _Readings_:
+	- [Safe Drinking Water Act (SDWA) EPA Website](https://www.epa.gov/sdwa)
+	- Tiemann, Mary. 2017. Safe Drinking Water Act (SDWA): A Summary of the Act and Its Major Requirements. Washington, D.C.: _Congressional Research Service_.
+	- Switzer, David, and Manuel P. Teodoro. 2017. “The Color of Drinking Water: Class, Race, Ethnicity, and Safe Drinking Water Act Compliance.” _Journal AWWA_ 109(9): 40–45.
+
+---
+
+class: title title-2
+
+# In-Class Assignment 
+
+
+**Please take a few moments to fill out the google from on [OAKS](https://lms.cofc.edu)** 
+
+**Have a great break!** 
+
